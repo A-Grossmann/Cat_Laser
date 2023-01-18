@@ -1,2 +1,2 @@
 # Cat_Laser
-A Project to create a two dementional laser pointer articulated by two servos and learning the best movement to engage movement in Cat
+A Project to create a two dementional laser pointer articulated by two servos.  The laser has movements that through motion detection and supervised learning the laser creats the best five point movement to engage the cat.
