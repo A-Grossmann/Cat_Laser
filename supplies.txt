@@ -1,0 +1,24 @@
+Supplies:
+
+Studio Raspberry Pi 4 Model B [4GB] RAM
+2 x SG90 9g Servo Motors
+1 x corded keyboard
+1 x corded mouse
+1 x laser
+1 x HSU Development Kit 
+
+	Package included:
+
+		1 x 2.5A Micro USB Power Supply with Noise Filter and On-Off Switch(only for Raspberry Pi )
+		2 x MB-102 Solderless Breadboards for RPI 3B/2B/B+
+		1 x Plastic 24 Compartments Electronic Components Storage Case Container
+		1 x Premium Quality HDMI Cable with CEC support (5feet/1.5meters cable)
+		2 x Blue Heat Sinks with Sticker (1pcs 14*14*8mm 1pcs 8*8*4mm)
+		1 x Cat5 Ethernet Patch Cable (4.9feet/1.5meter cable)
+		1 x Double desk DIY mounting plate
+		1 x GPIO Breakout Expansion Board for Raspberry Pi 3 2 Model B & B+
+		1 x 1602 Serial Blue Backlight LCD Module
+		1 x 40pin Male-to-Male Dupont Wire and 40pin Female-to-Female Dupont Wire
+		1 x 5V 4-Channel Relay Module with Optocoupler (Output contacts 250V 10A)
+		1 x 1080P HDMI to VGA Adapter Converter with Audio Cable
+		1 x Large Size Carrying Case (Red)
