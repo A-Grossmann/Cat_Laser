@@ -11,7 +11,8 @@
 **Results and Outcomes:**
 
 Markdown
-![Image Description](flow_chart_of_program.png)
+![Image Description](flow_chart_of_program.PNG)
+
 
 **Challenges and Lessons Learned:**
 
